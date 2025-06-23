@@ -4,4 +4,4 @@
 Unity - *движок*  
 C# - *язык разработки*  
 
-поиграть можно тут   https://yury93.github.io/1010Game/
+поиграть можно тут https://yury93.github.io/1010-game
