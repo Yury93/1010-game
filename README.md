@@ -1,1 +1,7 @@
-web game https://yury93.github.io/1010Game/
+Игра 1010
+
+# Технологический стек  
+Unity - *движок*  
+C# - *язык разработки*  
+
+поиграть можно тут   https://yury93.github.io/1010Game/
